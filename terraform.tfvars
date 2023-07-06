@@ -1,0 +1,5 @@
+vpc_cidr_block = "10.0.0.0/16"
+web_subnet = "10.0.10.0/24"
+subnet_zone = "us-east-1a"
+main_vpc_name = "Main VPC"
+my_public_ip = "68.129.7.109"
